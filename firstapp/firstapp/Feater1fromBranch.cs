@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace firstapp
 {
-    class Program
+    class Feater1fromBranch
     {
-        static void Main(string[] args)
-        {
-            //add files to bracnh 1
-
-            //
-        }
     }
 }
