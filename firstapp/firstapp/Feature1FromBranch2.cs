@@ -8,5 +8,6 @@ namespace firstapp
 {
     class Feature1FromBranch2
     {
+        //this is my first rebase wit master 
     }
 }
